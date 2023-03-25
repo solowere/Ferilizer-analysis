@@ -1,4 +1,4 @@
-# Ferilizer-analysis
+# Fertilizer-analysis
 
 I was working with KEPHIS every month on sampling,
  testing and reporting on food security in Kenya.
